@@ -93,4 +93,25 @@ Other services
 * SNS - notifications and messages in AWS
 * Storage Gateway - remote storage management
 
+Summary
+=======
+
+* Pros
+
+  * API
+  * On demand
+  * Support services
+
+* Cons
+
+  * Price
+  * Ping (Ireland)
+
+
+The END
+=======
+
+Questions?
+
+https://github.com/aleszoulek/talk-aws
 
