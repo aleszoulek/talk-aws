@@ -75,3 +75,22 @@ Simple email service
 
   * Binary attachements
   * SMPT
+
+Other services
+==============
+* DynamoDB - NoSQL key/value store
+* SimpleDB - NoSQL key/value store
+* RDS - scalable MySQL or Oracle DB
+* Elastic MapReduce - Hadoop to S3 or DynamoDB
+* CloudFormation - templates for EC2
+* Elastic Beanstalk - deploying Java WAR files
+* VPC - virtual private cloud
+* CloudWatch - monitoring
+* CloudFront - CDN
+* ElastiCache - cache
+* SQS - message queue
+* IAM - users & permissions to AWS
+* SNS - notifications and messages in AWS
+* Storage Gateway - remote storage management
+
+
